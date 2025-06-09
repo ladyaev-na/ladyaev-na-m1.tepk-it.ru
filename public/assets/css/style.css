@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Constantia';
+    src: url('fonts/Constantia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.btn{
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 20px;
+    background-color: #BFD6F6;
+}
+
+*{
+    font-family: Constantia, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #405C73;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 200px;
+}
+
+main{
+    background-color: #FFFFFF;
+}
+
+
+form{
+    background-color: #BFD6F6;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+input{
+    width: 100%;
+}
