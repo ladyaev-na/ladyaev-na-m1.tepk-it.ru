@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 
-@section('title', 'Дом')
+@section('title', 'Главная')
 
 @section('content')
 
