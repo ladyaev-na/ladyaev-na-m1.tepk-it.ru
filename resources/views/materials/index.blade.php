@@ -32,7 +32,7 @@
                     {{$material->quantityP}}
                 </div>
             </div>
-            <a href="{{ route('materials.list') }}" class="list">
+            <a href="#" class="list">
                 Список
             </a>
         </a>
